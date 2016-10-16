@@ -1,0 +1,68 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6900 Series (ID=0x6718)
+    Vendor:   ATI
+    VRAM:     2035 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Coding\Planetary Defense\PlanetaryDefense_v1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Coding\Planetary Defense\PlanetaryDefense_v1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Coding\Planetary Defense\PlanetaryDefense_v1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Coding\Planetary Defense\PlanetaryDefense_v1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Coding\Planetary Defense\PlanetaryDefense_v1.0_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Coding\Planetary Defense\PlanetaryDefense_v1.0_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.259 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.391285 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 92.
+Total: 0.938960 ms (FindLiveObjects: 0.019859 ms CreateObjectMapping: 0.010550 ms MarkObjects: 0.143357 ms  DeleteObjects: 0.004964 ms)
+
+UnloadTime: 0.327674 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 90.
+Total: 0.852387 ms (FindLiveObjects: 0.007757 ms CreateObjectMapping: 0.009929 ms MarkObjects: 0.120085 ms  DeleteObjects: 0.004033 ms)
+
+UnloadTime: 0.313400 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 92.
+Total: 0.847422 ms (FindLiveObjects: 0.008688 ms CreateObjectMapping: 0.010550 ms MarkObjects: 0.117602 ms  DeleteObjects: 0.004033 ms)
+
+UnloadTime: 0.212553 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 90.
+Total: 0.443415 ms (FindLiveObjects: 0.003413 ms CreateObjectMapping: 0.004964 ms MarkObjects: 0.093399 ms  DeleteObjects: 0.002172 ms)
+
+UnloadTime: 0.326122 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 140.
+Total: 0.891174 ms (FindLiveObjects: 0.011481 ms CreateObjectMapping: 0.011170 ms MarkObjects: 0.134048 ms  DeleteObjects: 0.005275 ms)
+
+hit by hostile projectile
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit by hostile projectile
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit by hostile projectile
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit by hostile projectile
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+hit by hostile projectile
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+

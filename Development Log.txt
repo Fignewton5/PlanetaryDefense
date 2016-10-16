@@ -1,0 +1,53 @@
+9/13/2014 (Saturday)
+
+--Created graphics for background, center planet, and planet shield
+--Implemented rotational movement for planet shield
+
+9/14/2014 (Sunday)
+
+--Tried to implement modular creation of ring of spawners off screen around center planet
+--Failed to rearrange equation of a circle properly and ended up spawning a diagonal line
+  of spawners through the center of the planet
+--Spawner ring creation properly counts how many spawners there should be according
+  to the desired radius of the ring, and the horizontal space desired between each
+  spawner
+
+9/15/2014 (Monday)
+
+--Properly implemented creation of ring of spawners
+--Spawners now spawn in a circle, with no duplicates at any of the points
+  !@(Previously, the algorithm I used was creating duplicates at the start, and end points
+  (left-most and right-most edges of circle), which was unecessary and screwed up spawner
+  counter)
+  ^^ solved by adding a conditional statement to check if the formula was at one of the
+  end points  of the circle
+--Circle of spawners can be be altered by adjusting radius of spawner circle, and horizontal
+  space in between each spawner
+
+9/23/2014 (Tuesday)
+
+--Implemented Score and Planet HP Text that updates when the planet / shield absorbs a projectile
+--Implemented "You Lose" Text Pop-up
+--Implemented random spawning of projectiles from ring of spawners
+
+9/25/2014 (Thursday)
+
+--Properly implemented recursive Coroutine to spawn projectiles randomly at desired interval
+--Added parameter to modify speed / force with which projectiles travel
+--Cleaned up code a little bit
+
+9/26/2014 (Friday)
+
+--Added working Start Menu with buttons to functioning pages for:
+	-- How to Play / Instructions
+	-- Credits
+
+9/27/2014 (Saturday)
+
+--Added leftover projectile cleanup after game is lost using foreach loop and FindObjectWithTag
+--Added pop-up menu after losing game that offers the options of playing again
+  or going back to the main menu
+
+9/29/2014 (Monday)
+
+--Re-made sprites for background image and planet so that they are two different entities
